@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          My Best Blog
+          My fav Blog is this one
         </a>
       </header>
     </div>
